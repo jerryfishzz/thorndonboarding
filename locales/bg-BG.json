@@ -74,7 +74,9 @@
     "previous_slide": "Плъзгане наляво",
     "loading": "Зареждане...",
     "of": "от",
-    "skip_to_product_info": "Прескочи към информацията за продукта"
+    "skip_to_product_info": "Прескочи към информацията за продукта",
+    "total_reviews": "общ брой мнения",
+    "star_reviews_info": "{{ rating_value }} от {{ rating_max }} звезди"
   },
   "blogs": {
     "article": {
@@ -155,7 +157,9 @@
         "other": "Открити са {{ count }} резултата за „{{ terms }}“"
       },
       "title": "Резултати от търсенето",
-      "page": "Страница"
+      "page": "Страница",
+      "products": "Продукти",
+      "search_for": "Търсене на „{{ terms }}“"
     },
     "cart": {
       "cart": "Количка"
